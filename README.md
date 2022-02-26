@@ -1,6 +1,4 @@
-# AI Face Mast Detector - COMP 6721 Winter 2022 Project 
-
-# Group Name: AK_ 11
+# AI Face Mast Detector - COMP 6721 Winter 2022 Project - Group Name: AK_ 11
 
 # Assignment 1 (Due by 23rd March 2022)
 
