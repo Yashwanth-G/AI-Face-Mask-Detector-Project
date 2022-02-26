@@ -1,6 +1,6 @@
 # AI Face Mast Detector - COMP 6721 Winter 2022 Project
 
-# Assignment 1
+# Assignment 1 (Due by 23rd March 2022)
 
 You have to develop an AI that can analyze face images and detect whether a person is wearing a face mask or not, as well as the type of mask that is being worn:
 
