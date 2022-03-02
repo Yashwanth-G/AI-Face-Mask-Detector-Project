@@ -5,6 +5,7 @@
 You have to develop an AI that can analyze face images and detect whether a person is wearing a face mask or not, as well as the type of mask that is being worn:
 
 Towards this end, you have to develop a Deep Learning Convolutional Neural Network (CNN) using PyTorch and train it to recognize five different classes: 
+
 (1) Person without a face mask 
 
 (2) Person with a “community” (cloth) face mask 
