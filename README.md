@@ -6,10 +6,16 @@ You have to develop an AI that can analyze face images and detect whether a pers
 
 Towards this end, you have to develop a Deep Learning Convolutional Neural Network (CNN) using PyTorch and train it to recognize five different classes: 
 (1) Person without a face mask 
+
 (2) Person with a “community” (cloth) face mask 
+
 (3) Person with a “surgical” (procedural) mask
+
 (4) Person with a “FFP2/N95/KN95”-type mask (you do not have to distinguish between them)
-(5) Person with a FFP2/N95/KN95 mask that has a valve. You do not have to consider other mask types (e.g., FFP3), face shields, full/half-face respirators, PPEs, or images that do not show a single face (e.g., groups of people). 
+
+(5) Person with a FFP2/N95/KN95 mask that has a valve. 
+
+You do not have to consider other mask types (e.g., FFP3), face shields, full/half-face respirators, PPEs, or images that do not show a single face (e.g., groups of people). 
 
 You will have to collect suitable training data and evaluate the performance of your system as follows:
 
